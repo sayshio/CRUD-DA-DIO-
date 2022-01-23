@@ -1,0 +1,48 @@
+C:\Users\Natassja\Desktop\New project\Project\DIO-Desafio\bin\Debug\net5.0\DIO-Desafio.exe
+C:\Users\Natassja\Desktop\New project\Project\DIO-Desafio\bin\Debug\net5.0\DIO-Desafio.deps.json
+C:\Users\Natassja\Desktop\New project\Project\DIO-Desafio\bin\Debug\net5.0\DIO-Desafio.runtimeconfig.json
+C:\Users\Natassja\Desktop\New project\Project\DIO-Desafio\bin\Debug\net5.0\DIO-Desafio.runtimeconfig.dev.json
+C:\Users\Natassja\Desktop\New project\Project\DIO-Desafio\bin\Debug\net5.0\DIO-Desafio.dll
+C:\Users\Natassja\Desktop\New project\Project\DIO-Desafio\bin\Debug\net5.0\ref\DIO-Desafio.dll
+C:\Users\Natassja\Desktop\New project\Project\DIO-Desafio\bin\Debug\net5.0\DIO-Desafio.pdb
+C:\Users\Natassja\Desktop\New project\Project\DIO-Desafio\obj\Debug\net5.0\DIO-Desafio.csproj.AssemblyReference.cache
+C:\Users\Natassja\Desktop\New project\Project\DIO-Desafio\obj\Debug\net5.0\DIO-Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natassja\Desktop\New project\Project\DIO-Desafio\obj\Debug\net5.0\DIO-Desafio.AssemblyInfoInputs.cache
+C:\Users\Natassja\Desktop\New project\Project\DIO-Desafio\obj\Debug\net5.0\DIO-Desafio.AssemblyInfo.cs
+C:\Users\Natassja\Desktop\New project\Project\DIO-Desafio\obj\Debug\net5.0\DIO-Desafio.csproj.CoreCompileInputs.cache
+C:\Users\Natassja\Desktop\New project\Project\DIO-Desafio\obj\Debug\net5.0\DIO-Desafio.dll
+C:\Users\Natassja\Desktop\New project\Project\DIO-Desafio\obj\Debug\net5.0\ref\DIO-Desafio.dll
+C:\Users\Natassja\Desktop\New project\Project\DIO-Desafio\obj\Debug\net5.0\DIO-Desafio.pdb
+C:\Users\Natassja\Desktop\New project\Project\DIO-Desafio\obj\Debug\net5.0\DIO-Desafio.genruntimeconfig.cache
+C:\Users\caiof\Desktop\pastas\DIO-Desafio-main-NATAJSSA\bin\Debug\net5.0\DIO-Desafio.exe
+C:\Users\caiof\Desktop\pastas\DIO-Desafio-main-NATAJSSA\bin\Debug\net5.0\DIO-Desafio.deps.json
+C:\Users\caiof\Desktop\pastas\DIO-Desafio-main-NATAJSSA\bin\Debug\net5.0\DIO-Desafio.runtimeconfig.json
+C:\Users\caiof\Desktop\pastas\DIO-Desafio-main-NATAJSSA\bin\Debug\net5.0\DIO-Desafio.runtimeconfig.dev.json
+C:\Users\caiof\Desktop\pastas\DIO-Desafio-main-NATAJSSA\bin\Debug\net5.0\DIO-Desafio.dll
+C:\Users\caiof\Desktop\pastas\DIO-Desafio-main-NATAJSSA\bin\Debug\net5.0\ref\DIO-Desafio.dll
+C:\Users\caiof\Desktop\pastas\DIO-Desafio-main-NATAJSSA\bin\Debug\net5.0\DIO-Desafio.pdb
+C:\Users\caiof\Desktop\pastas\DIO-Desafio-main-NATAJSSA\obj\Debug\net5.0\DIO-Desafio.csproj.AssemblyReference.cache
+C:\Users\caiof\Desktop\pastas\DIO-Desafio-main-NATAJSSA\obj\Debug\net5.0\DIO-Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiof\Desktop\pastas\DIO-Desafio-main-NATAJSSA\obj\Debug\net5.0\DIO-Desafio.AssemblyInfoInputs.cache
+C:\Users\caiof\Desktop\pastas\DIO-Desafio-main-NATAJSSA\obj\Debug\net5.0\DIO-Desafio.AssemblyInfo.cs
+C:\Users\caiof\Desktop\pastas\DIO-Desafio-main-NATAJSSA\obj\Debug\net5.0\DIO-Desafio.csproj.CoreCompileInputs.cache
+C:\Users\caiof\Desktop\pastas\DIO-Desafio-main-NATAJSSA\obj\Debug\net5.0\DIO-Desafio.dll
+C:\Users\caiof\Desktop\pastas\DIO-Desafio-main-NATAJSSA\obj\Debug\net5.0\ref\DIO-Desafio.dll
+C:\Users\caiof\Desktop\pastas\DIO-Desafio-main-NATAJSSA\obj\Debug\net5.0\DIO-Desafio.pdb
+C:\Users\caiof\Desktop\pastas\DIO-Desafio-main-NATAJSSA\obj\Debug\net5.0\DIO-Desafio.genruntimeconfig.cache
+C:\Users\caiof\Desktop\CRUD  EM C# .NET-CAIO\bin\Debug\net5.0\DIO-Desafio.exe
+C:\Users\caiof\Desktop\CRUD  EM C# .NET-CAIO\bin\Debug\net5.0\DIO-Desafio.deps.json
+C:\Users\caiof\Desktop\CRUD  EM C# .NET-CAIO\bin\Debug\net5.0\DIO-Desafio.runtimeconfig.json
+C:\Users\caiof\Desktop\CRUD  EM C# .NET-CAIO\bin\Debug\net5.0\DIO-Desafio.runtimeconfig.dev.json
+C:\Users\caiof\Desktop\CRUD  EM C# .NET-CAIO\bin\Debug\net5.0\DIO-Desafio.dll
+C:\Users\caiof\Desktop\CRUD  EM C# .NET-CAIO\bin\Debug\net5.0\ref\DIO-Desafio.dll
+C:\Users\caiof\Desktop\CRUD  EM C# .NET-CAIO\bin\Debug\net5.0\DIO-Desafio.pdb
+C:\Users\caiof\Desktop\CRUD  EM C# .NET-CAIO\obj\Debug\net5.0\DIO-Desafio.csproj.AssemblyReference.cache
+C:\Users\caiof\Desktop\CRUD  EM C# .NET-CAIO\obj\Debug\net5.0\DIO-Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiof\Desktop\CRUD  EM C# .NET-CAIO\obj\Debug\net5.0\DIO-Desafio.AssemblyInfoInputs.cache
+C:\Users\caiof\Desktop\CRUD  EM C# .NET-CAIO\obj\Debug\net5.0\DIO-Desafio.AssemblyInfo.cs
+C:\Users\caiof\Desktop\CRUD  EM C# .NET-CAIO\obj\Debug\net5.0\DIO-Desafio.csproj.CoreCompileInputs.cache
+C:\Users\caiof\Desktop\CRUD  EM C# .NET-CAIO\obj\Debug\net5.0\DIO-Desafio.dll
+C:\Users\caiof\Desktop\CRUD  EM C# .NET-CAIO\obj\Debug\net5.0\ref\DIO-Desafio.dll
+C:\Users\caiof\Desktop\CRUD  EM C# .NET-CAIO\obj\Debug\net5.0\DIO-Desafio.pdb
+C:\Users\caiof\Desktop\CRUD  EM C# .NET-CAIO\obj\Debug\net5.0\DIO-Desafio.genruntimeconfig.cache
